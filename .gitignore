@@ -1,5 +1,8 @@
 glad.c
 
+# img
+*.jpg
+
 # macOS
 .DS_Store
 .gitattributes
