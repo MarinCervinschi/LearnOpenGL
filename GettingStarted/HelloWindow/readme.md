@@ -1,2 +1,2 @@
 # Hello Window
-![Hello Window](helloWindow.jpg)
+![Hello Window](asserts/helloWindow.jpg)
