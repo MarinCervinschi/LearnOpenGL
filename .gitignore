@@ -1,7 +1,7 @@
 glad.c
 
 # img
-# *.jpg
+*.jpg
 
 # macOS
 .DS_Store
